@@ -1,4 +1,4 @@
 export interface Country{
     name?:string,
-    age?:number
+    age?:123123131312313123123
 }
